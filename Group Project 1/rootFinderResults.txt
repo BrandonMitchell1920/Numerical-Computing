@@ -1,0 +1,430 @@
+Question 1.a -----------------------------------------------------
+Fixed Point Iteration
+Initial guess: 1.1
+Iterations: 50
+Iteration: 1   Fixed Point: 1.0709999999999988
+Iteration: 2   Fixed Point: 1.0562349109999989
+Iteration: 3   Fixed Point: 1.0469256506808904
+Iteration: 4   Fixed Point: 1.0404229316714897
+Iteration: 5   Fixed Point: 1.035586943068953
+Iteration: 6   Fixed Point: 1.0318327199086834
+Iteration: 7   Fixed Point: 1.0288250105355399
+Iteration: 8   Fixed Point: 1.0263563169986938
+Iteration: 9   Fixed Point: 1.0242906592206191
+Iteration: 10   Fixed Point: 1.0225348832109509
+Iteration: 11   Fixed Point: 1.0210228640130126
+Iteration: 12   Fixed Point: 1.0197062728611197
+Iteration: 13   Fixed Point: 1.0185489139695196
+Iteration: 14   Fixed Point: 1.0175231093214965
+Iteration: 15   Fixed Point: 1.0166073118753545
+Iteration: 16   Fixed Point: 1.0157844837954233
+Iteration: 17   Fixed Point: 1.0150409667123714
+Iteration: 18   Fixed Point: 1.0143656774015657
+Iteration: 19   Fixed Point: 1.013749524023397
+Iteration: 20   Fixed Point: 1.0131849751302022
+Iteration: 21   Fixed Point: 1.0126657365457863
+Iteration: 22   Fixed Point: 1.0121865057476764
+Iteration: 23   Fixed Point: 1.0117427828098702
+Iteration: 24   Fixed Point: 1.0113307232124518
+Iteration: 25   Fixed Point: 1.0109470220450687
+Iteration: 26   Fixed Point: 1.0105888220315755
+Iteration: 27   Fixed Point: 1.0102536398276278
+Iteration: 28   Fixed Point: 1.0099393064767446
+Iteration: 29   Fixed Point: 1.0096439189392585
+Iteration: 30   Fixed Point: 1.0093658003560826
+Iteration: 31   Fixed Point: 1.0091034672584547
+Iteration: 32   Fixed Point: 1.008855602342777
+Iteration: 33   Fixed Point: 1.0086210317355437
+Iteration: 34   Fixed Point: 1.0083987059049315
+Iteration: 35   Fixed Point: 1.008187683552408
+Iteration: 36   Fixed Point: 1.0079871179538014
+Iteration: 37   Fixed Point: 1.0077962453248048
+Iteration: 38   Fixed Point: 1.0076143748683375
+Iteration: 39   Fixed Point: 1.0074408802260226
+Iteration: 40   Fixed Point: 1.0072751921073797
+Iteration: 41   Fixed Point: 1.0071167919112067
+Iteration: 42   Fixed Point: 1.0069652061863357
+Iteration: 43   Fixed Point: 1.0068200018053712
+Iteration: 44   Fixed Point: 1.006680781746316
+Iteration: 45   Fixed Point: 1.0065471813943851
+Iteration: 46   Fixed Point: 1.0064188652905068
+Iteration: 47   Fixed Point: 1.0062955242646616
+Iteration: 48   Fixed Point: 1.0061768729018148
+Iteration: 49   Fixed Point: 1.006062647296198
+Iteration: 50   Fixed Point: 1.0059526030562829
+Final Fixed Point: 1.0059526030562829
+
+Question 1.b -----------------------------------------------------
+Fixed Point Iteration
+Initial guess: 1.1
+Iterations: 50
+Iteration: 1   Fixed Point: 1.0910000000000002
+Iteration: 2   Fixed Point: 1.0801965710000003
+Iteration: 3   Fixed Point: 1.0679281960449079
+Iteration: 4   Fixed Point: 1.0549130740676407
+Iteration: 5   Fixed Point: 1.0421597689445254
+Iteration: 6   Fixed Point: 1.0307031364367059
+Iteration: 7   Fixed Point: 1.021278872935263
+Iteration: 8   Fixed Point: 1.0141353299314415
+Iteration: 9   Fixed Point: 1.009083444961351
+Iteration: 10   Fixed Point: 1.0056983433596176
+Iteration: 11   Fixed Point: 1.003516604398477
+Iteration: 12   Fixed Point: 1.0021471056466835
+Iteration: 13   Fixed Point: 1.0013021034742757
+Iteration: 14   Fixed Point: 1.0007863507126207
+Iteration: 15   Fixed Point: 1.0004736659561402
+Iteration: 16   Fixed Point: 1.0002848727582696
+Iteration: 17   Fixed Point: 1.000171167135545
+Iteration: 18   Fixed Point: 1.0001027881809068
+Iteration: 19   Fixed Point: 1.0000617046058604
+Iteration: 20   Fixed Point: 1.0000370341861264
+Iteration: 21   Fixed Point: 1.0000222246263193
+Iteration: 22   Fixed Point: 1.0000133362576047
+Iteration: 23   Fixed Point: 1.0000080022881324
+Iteration: 24   Fixed Point: 1.0000048015649898
+Iteration: 25   Fixed Point: 1.000002881008159
+Iteration: 26   Fixed Point: 1.0000017286297962
+Iteration: 27   Fixed Point: 1.0000010371868422
+Iteration: 28   Fixed Point: 1.0000006223153326
+Iteration: 29   Fixed Point: 1.0000003733903613
+Iteration: 30   Fixed Point: 1.0000002240346353
+Iteration: 31   Fixed Point: 1.0000001344209317
+Iteration: 32   Fixed Point: 1.000000080652613
+Iteration: 33   Fixed Point: 1.0000000483915872
+Iteration: 34   Fixed Point: 1.0000000290349593
+Iteration: 35   Fixed Point: 1.0000000174209782
+Iteration: 36   Fixed Point: 1.000000010452588
+Iteration: 37   Fixed Point: 1.000000006271553
+Iteration: 38   Fixed Point: 1.000000003762932
+Iteration: 39   Fixed Point: 1.000000002257759
+Iteration: 40   Fixed Point: 1.0000000013546553
+Iteration: 41   Fixed Point: 1.0000000008127932
+Iteration: 42   Fixed Point: 1.000000000487676
+Iteration: 43   Fixed Point: 1.0000000002926057
+Iteration: 44   Fixed Point: 1.0000000001755633
+Iteration: 45   Fixed Point: 1.0000000001053382
+Iteration: 46   Fixed Point: 1.000000000063203
+Iteration: 47   Fixed Point: 1.0000000000379219
+Iteration: 48   Fixed Point: 1.0000000000227531
+Iteration: 49   Fixed Point: 1.000000000013652
+Iteration: 50   Fixed Point: 1.000000000008191
+Final Fixed Point: 1.000000000008191
+
+Question 1.c -----------------------------------------------------
+Fixed Point Iteration
+Initial guess: 1.1
+Iterations: 50
+Iteration: 1   Fixed Point: 1.0410000000000004
+Iteration: 2   Fixed Point: 1.0092119210000003
+Iteration: 3   Fixed Point: 1.001176552284435
+Iteration: 4   Fixed Point: 1.0001218096829498
+Iteration: 5   Fixed Point: 1.0000122254828991
+Iteration: 6   Fixed Point: 1.000001222996679
+Iteration: 7   Fixed Point: 1.0000001223041548
+Iteration: 8   Fixed Point: 1.0000000122304602
+Iteration: 9   Fixed Point: 1.0000000012230466
+Iteration: 10   Fixed Point: 1.0000000001223048
+Iteration: 11   Fixed Point: 1.0000000000122307
+Iteration: 12   Fixed Point: 1.000000000001223
+Iteration: 13   Fixed Point: 1.0000000000001221
+Iteration: 14   Fixed Point: 1.0000000000000124
+Iteration: 15   Fixed Point: 1.0000000000000013
+Iteration: 16   Fixed Point: 1.0
+Iteration: 17   Fixed Point: 1.0
+Iteration: 18   Fixed Point: 1.0
+Iteration: 19   Fixed Point: 1.0
+Iteration: 20   Fixed Point: 1.0
+Iteration: 21   Fixed Point: 1.0
+Iteration: 22   Fixed Point: 1.0
+Iteration: 23   Fixed Point: 1.0
+Iteration: 24   Fixed Point: 1.0
+Iteration: 25   Fixed Point: 1.0
+Iteration: 26   Fixed Point: 1.0
+Iteration: 27   Fixed Point: 1.0
+Iteration: 28   Fixed Point: 1.0
+Iteration: 29   Fixed Point: 1.0
+Iteration: 30   Fixed Point: 1.0
+Iteration: 31   Fixed Point: 1.0
+Iteration: 32   Fixed Point: 1.0
+Iteration: 33   Fixed Point: 1.0
+Iteration: 34   Fixed Point: 1.0
+Iteration: 35   Fixed Point: 1.0
+Iteration: 36   Fixed Point: 1.0
+Iteration: 37   Fixed Point: 1.0
+Iteration: 38   Fixed Point: 1.0
+Iteration: 39   Fixed Point: 1.0
+Iteration: 40   Fixed Point: 1.0
+Iteration: 41   Fixed Point: 1.0
+Iteration: 42   Fixed Point: 1.0
+Iteration: 43   Fixed Point: 1.0
+Iteration: 44   Fixed Point: 1.0
+Iteration: 45   Fixed Point: 1.0
+Iteration: 46   Fixed Point: 1.0
+Iteration: 47   Fixed Point: 1.0
+Iteration: 48   Fixed Point: 1.0
+Iteration: 49   Fixed Point: 1.0
+Iteration: 50   Fixed Point: 1.0
+Final Fixed Point: 1.0
+
+Question 1.d -----------------------------------------------------
+Fixed Point Iteration
+Initial guess: 1.1
+Iterations: 50
+Iteration: 1   Fixed Point: 1.0310000000000001
+Iteration: 2   Fixed Point: 1.002912791
+Iteration: 3   Fixed Point: 1.0000254777673714
+Iteration: 4   Fixed Point: 1.0000000019473665
+Iteration: 5   Fixed Point: 1.0000000000000002
+Iteration: 6   Fixed Point: 1.0
+Iteration: 7   Fixed Point: 1.0
+Iteration: 8   Fixed Point: 1.0
+Iteration: 9   Fixed Point: 1.0
+Iteration: 10   Fixed Point: 1.0
+Iteration: 11   Fixed Point: 1.0
+Iteration: 12   Fixed Point: 1.0
+Iteration: 13   Fixed Point: 1.0
+Iteration: 14   Fixed Point: 1.0
+Iteration: 15   Fixed Point: 1.0
+Iteration: 16   Fixed Point: 1.0
+Iteration: 17   Fixed Point: 1.0
+Iteration: 18   Fixed Point: 1.0
+Iteration: 19   Fixed Point: 1.0
+Iteration: 20   Fixed Point: 1.0
+Iteration: 21   Fixed Point: 1.0
+Iteration: 22   Fixed Point: 1.0
+Iteration: 23   Fixed Point: 1.0
+Iteration: 24   Fixed Point: 1.0
+Iteration: 25   Fixed Point: 1.0
+Iteration: 26   Fixed Point: 1.0
+Iteration: 27   Fixed Point: 1.0
+Iteration: 28   Fixed Point: 1.0
+Iteration: 29   Fixed Point: 1.0
+Iteration: 30   Fixed Point: 1.0
+Iteration: 31   Fixed Point: 1.0
+Iteration: 32   Fixed Point: 1.0
+Iteration: 33   Fixed Point: 1.0
+Iteration: 34   Fixed Point: 1.0
+Iteration: 35   Fixed Point: 1.0
+Iteration: 36   Fixed Point: 1.0
+Iteration: 37   Fixed Point: 1.0
+Iteration: 38   Fixed Point: 1.0
+Iteration: 39   Fixed Point: 1.0
+Iteration: 40   Fixed Point: 1.0
+Iteration: 41   Fixed Point: 1.0
+Iteration: 42   Fixed Point: 1.0
+Iteration: 43   Fixed Point: 1.0
+Iteration: 44   Fixed Point: 1.0
+Iteration: 45   Fixed Point: 1.0
+Iteration: 46   Fixed Point: 1.0
+Iteration: 47   Fixed Point: 1.0
+Iteration: 48   Fixed Point: 1.0
+Iteration: 49   Fixed Point: 1.0
+Iteration: 50   Fixed Point: 1.0
+Final Fixed Point: 1.0
+
+Question 2.a -----------------------------------------------------
+Newton's Method
+Initial Guess: 0.0
+Max Iterations: 75
+Iteration: 1   Error: 0.0625   Current X: 0.0625
+Iteration: 2   Error: 0.03017514482259233   Current X: 0.09267514482259233
+Iteration: 3   Error: 0.014834015407273735   Current X: 0.10750916022986606
+Iteration: 4   Error: 0.0073440735331801316   Current X: 0.1148532337630462
+Iteration: 5   Error: 0.0036304477586989597   Current X: 0.11848368152174515
+Iteration: 6   Error: 0.0017589252527526605   Current X: 0.12024260677449781
+Iteration: 7   Error: 0.0007832111242555284   Current X: 0.12102581789875334
+Iteration: 8   Error: 0.00025801480711515334   Current X: 0.1212838327058685
+Iteration: 9   Error: 3.579396748724928e-05   Current X: 0.12131962667335575
+Iteration: 10   Error: 7.165988324953076e-07   Current X: 0.12132034327218824
+Root 0.12132034327218824
+
+Newton's Method
+Initial Guess: 0.2
+Max Iterations: 75
+Iteration: 1   Error: 0.038363892806770133   Current X: 0.16163610719322988
+Iteration: 2   Error: 0.019564931223052417   Current X: 0.14207117597017746
+Iteration: 3   Error: 0.009874245254042707   Current X: 0.13219693071613475
+Iteration: 4   Error: 0.004943348069196107   Current X: 0.12725358264693865
+Iteration: 5   Error: 0.0024391367156378907   Current X: 0.12481444593130075
+Iteration: 6   Error: 0.0011471148079684745   Current X: 0.12366733112333228
+Iteration: 7   Error: 0.00045315976314964923   Current X: 0.12321417136018263
+Iteration: 8   Error: 0.00010265787550994832   Current X: 0.12311151348467268
+Iteration: 9   Error: 5.868563756963874e-06   Current X: 0.12310564492091572
+Root 0.12310564492091572
+
+Question 2.b -----------------------------------------------------
+Newton's Method
+Initial Guess: 2
+Max Iterations: 75
+Iteration: 1   Error: 100.0   Current X: -98.0
+Iteration: 2   Error: 0.0   Current X: -98.0
+Root -98.0
+
+Newton's Method
+Initial Guess: 2.2
+Max Iterations: 75
+Iteration: 1   Error: 2.4588957055214706   Current X: 4.658895705521471
+Iteration: 2   Error: 1.1288488974168196   Current X: 3.530046808104651
+Iteration: 3   Error: 0.43635257931566684   Current X: 3.0936942287889844
+Iteration: 4   Error: 0.08960145987123669   Current X: 3.0040927689177477
+Iteration: 5   Error: 0.004084262517423554   Current X: 3.000008506400324
+Iteration: 6   Error: 8.506363429194863e-06   Current X: 3.000000000036895
+Root 3.000000000036895
+
+Newton's Method
+Initial Guess: 1.8
+Max Iterations: 75
+Iteration: 1   Error: 2.343639921722118   Current X: -0.5436399217221182
+Iteration: 2   Error: 1.0872470243942174   Current X: 0.5436071026720992
+Iteration: 3   Error: 0.3863916301770083   Current X: 0.9299987328491075
+Iteration: 4   Error: 0.06775784339232171   Current X: 0.9977565762414292
+Iteration: 5   Error: 0.002240963642819671   Current X: 0.9999975398842489
+Iteration: 6   Error: 2.4601127862622363e-06   Current X: 0.9999999999970351
+Root 0.9999999999970351
+
+Newton's Method
+Initial Guess: 1
+Max Iterations: 75
+Iteration: 1   Error: 0.0   Current X: 1.0
+Root 1.0
+
+Newton's Method
+Initial Guess: 3
+Max Iterations: 75
+Iteration: 1   Error: 0.0   Current X: 3.0
+Root 3.0
+
+Newton's Method
+Initial Guess: 0
+Max Iterations: 75
+Iteration: 1   Error: 0.7557840616966581   Current X: 0.7557840616966581
+Iteration: 2   Error: 0.22074076849198554   Current X: 0.9765248301886437
+Iteration: 3   Error: 0.02321139016124185   Current X: 0.9997362203498855
+Iteration: 4   Error: 0.00026374557208064253   Current X: 0.9999999659219662
+Iteration: 5   Error: 3.407803328414616e-08   Current X: 0.9999999999999994
+Root 0.9999999999999994
+
+Newton's Method
+Initial Guess: 4
+Max Iterations: 75
+Iteration: 1   Error: 0.7445255474452557   Current X: 3.2554744525547443
+Iteration: 2   Error: 0.22896250074577518   Current X: 3.026511951808969
+Iteration: 3   Error: 0.0261628096486497   Current X: 3.0003491421603194
+Iteration: 4   Error: 0.0003490800249643655   Current X: 3.000000062135355
+Iteration: 5   Error: 6.213535330701347e-08   Current X: 3.0000000000000018
+Root 3.0000000000000018
+
+Question 2.c -----------------------------------------------------
+Newton's Method
+Initial Guess: 1.5707963267948966
+Max Iterations: 75
+Iteration: 1   Error: 0.21460183660255172   Current X: 1.7853981633974483
+Iteration: 2   Error: 0.05916346620433921   Current X: 1.8445616296017875
+Iteration: 3   Error: 0.02627278808707456   Current X: 1.870834417688862
+Iteration: 4   Error: 0.012512009238352828   Current X: 1.8833464269272149
+Iteration: 5   Error: 0.0061173372550866745   Current X: 1.8894637641823016
+Iteration: 6   Error: 0.003025860351957066   Current X: 1.8924896245342586
+Iteration: 7   Error: 0.001504943821671878   Current X: 1.8939945683559305
+Iteration: 8   Error: 0.0007505013352195888   Current X: 1.89474506969115
+Iteration: 9   Error: 0.0003747612182432025   Current X: 1.8951198309093933
+Iteration: 10   Error: 0.0001872586427638101   Current X: 1.895307089552157
+Iteration: 11   Error: 9.359887906223996e-05   Current X: 1.8954006884312193
+Iteration: 12   Error: 4.6791834241499686e-05   Current X: 1.8954474802654608
+Iteration: 13   Error: 2.3394020533418214e-05   Current X: 1.8954708742859943
+Iteration: 14   Error: 1.1696531048821512e-05   Current X: 1.895482570817043
+Iteration: 15   Error: 5.848159870591729e-06   Current X: 1.8954884189769137
+Root 1.8954884189769137
+
+Newton's Method
+Initial Guess: 15.707963267948966
+Max Iterations: 75
+Iteration: 1   Error: 2.617993877991495   Current X: 13.08996938995747
+Iteration: 2   Error: 8.257602658829068   Current X: 21.34757204878654
+Iteration: 3   Error: 3.8746447573625744   Current X: 17.472927291423964
+Iteration: 4   Error: 15.824247367291289   Current X: 1.6486799241326757
+Iteration: 5   Error: 0.14938316420321707   Current X: 1.7980630883358928
+Iteration: 6   Error: 0.05187696878727066   Current X: 1.8499400571231635
+Iteration: 7   Error: 0.023417256219013582   Current X: 1.873357313342177
+Iteration: 8   Error: 0.011214688825158303   Current X: 1.8845720021673353
+Iteration: 9   Error: 0.005496171004239825   Current X: 1.8900681731715752
+Iteration: 10   Error: 0.002721628655073749   Current X: 1.892789801826649
+Iteration: 11   Error: 0.0013543564545412945   Current X: 1.8941441582811902
+Iteration: 12   Error: 0.0006755826813349408   Current X: 1.8948197409625251
+Iteration: 13   Error: 0.0003373947821474488   Current X: 1.8951571357446726
+Iteration: 14   Error: 0.0001685985406210122   Current X: 1.8953257342852936
+Iteration: 15   Error: 8.427459294857442e-05   Current X: 1.8954100088782422
+Iteration: 16   Error: 4.213113329654128e-05   Current X: 1.8954521400115387
+Iteration: 17   Error: 2.106402562351839e-05   Current X: 1.8954732040371622
+Iteration: 18   Error: 1.0531622674836427e-05   Current X: 1.895483735659837
+Iteration: 19   Error: 5.265713362678781e-06   Current X: 1.8954890013731998
+Root 1.8954890013731998
+
+Question 3.a -----------------------------------------------------
+Newton's Method
+Initial Guess: -0.5
+Max Iterations: 75
+Iteration: 1   Error: 0.3585972850678733   Current X: -0.1414027149321267
+Iteration: 2   Error: 0.11317097236382875   Current X: -0.02823174256829794
+Iteration: 3   Error: 0.0011112650717723244   Current X: -0.027120477496525616
+Iteration: 4   Error: 4.77689800597314e-08   Current X: -0.027120429727545557
+Root -0.027120429727545557
+
+Newton's Method
+Initial Guess: 0.5
+Max Iterations: 75
+Iteration: 1   Error: 1.1691616766467066   Current X: -0.6691616766467066
+Iteration: 2   Error: 0.38519289526150613   Current X: -0.28396878138520043
+Iteration: 3   Error: 0.24118823680768386   Current X: -0.042780544577516566
+Iteration: 4   Error: 0.015650230412254062   Current X: -0.027130314165262504
+Iteration: 5   Error: 9.884433944847004e-06   Current X: -0.027120429731317657
+Root -0.027120429731317657
+
+Question 3.b -----------------------------------------------------
+Secant Method
+Initial Range: [-1, 0]
+Iteration: 1   Error: 0.013574660633484163   Range: [0, -0.013574660633484163]
+Iteration: 2   Error: 0.013559996820589296   Range: [-0.013574660633484163, -0.02713465745407346]
+Iteration: 3   Error: 1.4235126059563424e-05   Range: [-0.02713465745407346, -0.027120422328013895]
+Iteration: 4   Error: 7.399527501145142e-09   Range: [-0.027120422328013895, -0.027120429727541397]
+Root: -0.027120429727541397
+
+Secant Method
+Initial Range: [0, 1]
+Iteration: 1   Error: 0.8333333333333334   Range: [1, 0.16666666666666663]
+Iteration: 2   Error: 0.48765958960133726   Range: [0.16666666666666663, 0.6543262562680039]
+Iteration: 3   Error: 0.8483094016772305   Range: [0.6543262562680039, -0.19398314540922657]
+Iteration: 4   Error: 0.2316817542227805   Range: [-0.19398314540922657, 0.03769860881355394]
+Iteration: 5   Error: 0.06413384138322345   Range: [0.03769860881355394, -0.02643523256966951]
+Iteration: 6   Error: 0.0006870213589782945   Range: [-0.02643523256966951, -0.027122253928647803]
+Iteration: 7   Error: 1.8242493356780687e-06   Range: [-0.027122253928647803, -0.027120429679312125]
+Root: -0.027120429679312125
+
+Question 3.c -----------------------------------------------------
+Method of False Position
+Initial Range: [-1, 0]
+Iteration: 1   Error: 0.013574660633484163   Range: [-1, -0.013574660633484163]
+Iteration: 2   Error: 0.006737329661660289   Range: [-1, -0.020311990295144453]
+Iteration: 3   Error: 0.003375552504629415   Range: [-1, -0.023687542799773868]
+Iteration: 4   Error: 0.0016992470104423944   Range: [-1, -0.025386789810216262]
+Iteration: 5   Error: 0.0008574366776671789   Range: [-1, -0.02624422648788344]
+Iteration: 6   Error: 0.00043318072258042087   Range: [-1, -0.026677407210463862]
+Iteration: 7   Error: 0.000218977556217307   Range: [-1, -0.02689638476668117]
+Iteration: 8   Error: 0.00011072947312875878   Range: [-1, -0.027007114239809928]
+Iteration: 9   Error: 5.60007940548328e-05   Range: [-1, -0.02706311503386476]
+Iteration: 10   Error: 2.8324299876342218e-05   Range: [-1, -0.027091439333741103]
+Iteration: 11   Error: 1.4326542832742567e-05   Range: [-1, -0.027105765876573845]
+Iteration: 12   Error: 7.246567323735548e-06   Range: [-1, -0.02711301244389758]
+Root: -0.02711301244389758
+
+Method of False Position
+Initial Range: [0, 1]
+Iteration: 1   Error: 0.16666666666666663   Range: [0.16666666666666663, 1]
+Iteration: 2   Error: 0.48765958960133715   Range: [0.6543262562680038, 1]
+Iteration: 3   Error: 0.26562564003044054   Range: [0.9199518962984443, 1]
+Iteration: 4   Error: 0.034688609436920426   Range: [0.9546405057353647, 1]
+Iteration: 5   Error: 0.002953952521535075   Range: [0.9575944582568998, 1]
+Iteration: 6   Error: 0.00023979688980546587   Range: [0.9578342551467053, 1]
+Iteration: 7   Error: 1.938852701544036e-05   Range: [0.9578536436737207, 1]
+Iteration: 8   Error: 1.5671304233189076e-06   Range: [0.957855210804144, 1]
+Root: 0.957855210804144
+
